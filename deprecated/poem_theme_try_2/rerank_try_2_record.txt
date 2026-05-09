@@ -1,0 +1,26 @@
+rerank_without_comment:
+
+entry_num:100
+pos_neg_correct_count: 83
+pos_adv_correct_count: 67
+
+
+rerank_with_comment:
+
+entry_num:100
+pos_neg_correct_count: 93
+pos_adv_correct_count: 93
+
+
+embedding_without_comment:
+
+entry_num:100
+pos_neg_correct_count: 64
+pos_adv_correct_count: 47
+
+
+embedding_with_comment:
+
+entry_num:100
+pos_neg_correct_count: 76
+pos_adv_correct_count: 43

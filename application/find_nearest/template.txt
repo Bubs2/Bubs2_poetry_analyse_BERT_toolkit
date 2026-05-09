@@ -1,0 +1,7 @@
+输入要查询的诗歌路径（txt）：../poem.txt
+输入诗歌数据库路径（json）：poems.json
+请输入诗歌数据库模板（使用${title}，${content}，${comment}作为占位符）：
+	${title}\n\n${content}
+	${comment}
+	${title}\n\n${content}\n\n${comment}
+

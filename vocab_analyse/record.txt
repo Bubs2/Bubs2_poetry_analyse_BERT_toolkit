@@ -1,0 +1,16 @@
+original
+
+单 token mask 平均 loss: 1.9498319776787132
+同 token mask 平均 loss: 2.809632757086695
+
+
+shuffled
+
+单 token mask 平均 loss: 2.184142469200328
+同 token mask 平均 loss: 3.0721591072281638
+
+
+wiki
+
+单 token mask 平均 loss: 0.7906800897132529
+同 token mask 平均 loss: 1.2663363122241216
