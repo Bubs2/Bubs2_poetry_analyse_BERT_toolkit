@@ -276,6 +276,6 @@ regenerate_tags(
     "poem_theme_dataset_original.json",
     "poem_theme_dataset_tmp.json",
     "https://api.deepseek.com",
-    "sk-2a258cde78314a28bb16648850c668e5",
+    "key-here",
     "deepseek-reasoner"
 )
